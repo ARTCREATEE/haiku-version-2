@@ -14,3 +14,8 @@ display: grid;
 grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 gap: 2rem; 
 } 
+
+.last {
+  padding-bottom: 2rem;
+  border-bottom: 2px soild rgb(220, 200, 180);
+}
