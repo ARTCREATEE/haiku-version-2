@@ -8,6 +8,8 @@ margin: 1rem;
 	overflow: hidden; 
 	background-image: url(../assets/img/flames.gif);
 	background-repeat: no-repeat; 
+	background-position: center;
+	background-size: cover;
 }
 
 .grid-container { 
